@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://realestateeilat.co.il", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://spa5.org", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "realestateeilat", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "spa5.org", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "realestateeilat", // This allows an alternative site description for meta data for pages.
+    "spa5.org", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "realestateeilat", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "spa5.org", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "realestateeilat",
+    title: "spa5.org",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://realestateeilat.co.il/",
+        url: "https://spa5.org/",
       },
       {
         label: "יצירת קשר",
-        url: "https://realestateeilat.co.il/contact",
+        url: "https://spa5.org/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://realestateeilat.co.il/",
+        url: "https://spa5.org/",
       },
       {
         label: "Sitemap",
-        url: "https://realestateeilat.co.il/sitemap.xml",
+        url: "https://spa5.org/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://realestateeilat.co.il/contact",
+        url: "https://spa5.org/contact",
       },
      
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "realestateeilat",
+    title: "spa5.org",
     description:
-      "realestateeilat",
+      "spa5.org",
   },
   twitterCard: {
     title: "",
@@ -88,9 +88,9 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "realestateeilat",
+  siteTitle: "spa5.org",
   siteDescription:
-    "realestateeilat",
+    "spa5.org",
   language: "he",
   logoUrl: "",
   iconUrl: "",
