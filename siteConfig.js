@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://growfogbox.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://metapancakes.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "growfogbox.com", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "metapancakes.com", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "growfogbox.com", // This allows an alternative site description for meta data for pages.
+    "metapancakes.com", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "growfogbox.com", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "metapancakes.com", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "growfogbox.com",
+    title: "metapancakes.com",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://growfogbox.com/",
+        url: "https://metapancakes.com/",
       },
       {
         label: "יצירת קשר",
-        url: "https://growfogbox.com/contact",
+        url: "https://metapancakes.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://growfogbox.com/",
+        url: "https://metapancakes.com/",
       },
       {
         label: "Sitemap",
-        url: "https://growfogbox.com/sitemap.xml",
+        url: "https://metapancakes.com/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://growfogbox.com/contact",
+        url: "https://metapancakes.com/contact",
       },
      
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "growfogbox.com",
+    title: "metapancakes.com",
     description:
-      "growfogbox.com",
+      "metapancakes.com",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "growfogbox",
+    title: "metapancakes",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "growfogbox.com",
+  siteTitle: "metapancakes.com",
   siteDescription:
-    "growfogbox.com",
+    "metapancakes.com",
   language: "he",
   logoUrl: "",
   iconUrl: "",
