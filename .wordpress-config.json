@@ -1,5 +1,5 @@
 {
-  "baseUrl": "metapancakes.ussl.co.il",
+  "baseUrl": "spider.ussl.co.il/metapancakes",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
