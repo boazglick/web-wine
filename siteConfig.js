@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://metapancakes.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://tedbakerasale.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "metapancakes.com", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "tedbakerasale.com", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "metapancakes.com", // This allows an alternative site description for meta data for pages.
+    "tedbakerasale.com", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "metapancakes.com", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "tedbakerasale.com", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "metapancakes.com",
+    title: "tedbakerasale.com",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://metapancakes.com/",
+        url: "https://tedbakerasale.com/",
       },
       {
         label: "יצירת קשר",
-        url: "https://metapancakes.com/contact",
+        url: "https://tedbakerasale.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://metapancakes.com/",
+        url: "https://tedbakerasale.com/",
       },
       {
         label: "Sitemap",
-        url: "https://metapancakes.com/sitemap.xml",
+        url: "https://tedbakerasale.com/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://metapancakes.com/contact",
+        url: "https://tedbakerasale.com/contact",
       },
      
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "metapancakes.com",
+    title: "tedbakerasale.com",
     description:
-      "metapancakes.com",
+      "tedbakerasale.com",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "metapancakes",
+    title: "tedbakerasale",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "metapancakes.com",
+  siteTitle: "tedbakerasale.com",
   siteDescription:
-    "metapancakes.com",
+    "tedbakerasale.com",
   language: "he",
   logoUrl: "",
   iconUrl: "",
