@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://allplayall.net", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://web-wine.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "allplayall.net", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "web-wine.com", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "allplayall.net", // This allows an alternative site description for meta data for pages.
+    "web-wine.com", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "allplayall.net", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "web-wine.com", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "allplayall.net",
+    title: "web-wine.com",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://allplayall.net/",
+        url: "https://web-wine.com/",
       },
       {
         label: "יצירת קשר",
-        url: "https://allplayall.net/contact",
+        url: "https://web-wine.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://allplayall.net/",
+        url: "https://web-wine.com/",
       },
       {
         label: "Sitemap",
-        url: "https://allplayall.net/sitemap.xml",
+        url: "https://web-wine.com/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://allplayall.net/contact",
+        url: "https://web-wine.com/contact",
       },
      
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "allplayall.net",
+    title: "web-wine.com",
     description:
-      "allplayall.net",
+      "web-wine.com",
   },
   twitterCard: {
     title: "",
@@ -88,9 +88,9 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "allplayall.net",
+  siteTitle: "web-wine.com",
   siteDescription:
-    "allplayall.net",
+    "web-wine.com",
   language: "he",
   logoUrl: "",
   iconUrl: "",
